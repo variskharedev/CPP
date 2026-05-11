@@ -178,6 +178,7 @@ using namespace std;
 
 
 
+<<<<<<< Updated upstream
 //
 
 
@@ -196,3 +197,6 @@ int main(){
     
     return 0;
 }
+=======
+//
+>>>>>>> Stashed changes
